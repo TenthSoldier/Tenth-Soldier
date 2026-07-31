@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>Bab 2 - Pertemuan Dengan Lizzy</title>
+
+<style>
+body{
+    margin:0;
+    background:#111;
+    color:white;
+    font-family:Arial,sans-serif;
+    line-height:1.8;
+}
+
+.container{
+    max-width:900px;
+    margin:auto;
+    padding:40px;
+}
+
+a{
+    color:#00ff99;
+    text-decoration:none;
+}
+
+h1{
+    color:#00ff99;
+}
+</style>
+
+</head>
+
+<body>
+
+<div class="container">
+
+<p><a href="novel.html">← Kembali ke Daftar Bab</a></p>
+
+<h1>Bab 2 - Pertemuan Dengan Lizzy</h1>
+
+<p>
+Setelah berhasil memasuki dunia Globe-X, SAITAMA mulai menyadari bahwa tempat ini
+terasa jauh lebih nyata daripada game biasa. Angin yang berhembus, aroma rumput,
+dan langit yang dipenuhi pulau-pulau melayang membuatnya terdiam.
+</p>
+
+<p>
+Di tengah kebingungan itu muncul seorang wanita tua berwajah tenang.
+Namanya Lizzy. Ia tampak sudah mengenal dunia Globe-X jauh sebelum mereka datang.
+</p>
+
+<p>
+Lizzy memperingatkan bahwa dunia ini menyimpan banyak rahasia dan bahaya.
+Ia mengajak SAITAMA untuk menemukan pemain lain sebelum Penjaga Gerbang mengetahui
+keberadaan mereka.
+</p>
+
+<p>
+Perjalanan mereka pun dimulai.
+</p>
+
+</div>
+
+</body>
+</html>
